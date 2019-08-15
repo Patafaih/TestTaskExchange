@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+    <AddOrder book="book-1" operation="SELL" price="99.3" volume="80" orderId="1" />
+    <DeleteOrder book="book-1" orderId="1" />
+    <AddOrder book="book-2" operation="BUY" price="145.9" volume="130" orderId="2" />
+    <AddOrder book="book-2" operation="SELL" price="145.9" volume="230" orderId="3" />
+    <DeleteOrder book="book-2" orderId="3" />
+</Orders>
